@@ -1,0 +1,13 @@
+file ini berhasil push ke github melalui pycharm
+
+solusi:
+- masuk ke akun github
+- pergi ke menu settings > applications > authorized oauth apps
+- lalu hapus bagian "jetbrains ide integration"
+
+- setelah itu pergi ke pycharm lagi
+- lakukan permintaan push > login github
+- sebelum melakukan authorize, klik terlebih dahulu pada pilihan "grant"
+
+link:
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000586190-VCS-in-PyCharm-works-with-one-Github-account-but-not-the-other
